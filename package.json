@@ -1,5 +1,5 @@
 {
-  "name": "proyecto-lealtad-purificadora",
+  "name": "proyecto-lealtad-purificadora-backend",
   "private": true,
   "version": "0.0.0",
   "description": "a Sails application",
@@ -22,7 +22,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/carlos_anguiano11/proyecto-lealtad-purificadora.git"
+    "url": "git://github.com/carl0sra1n/proyecto-lealtad-purificadora-backend.git"
   },
   "author": "carlos_anguiano11",
   "license": "",
